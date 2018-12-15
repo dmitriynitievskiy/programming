@@ -1,0 +1,8 @@
+﻿  MyForm.cpp
+c:\users\dmitriy n\source\repos\project5\project5\myform.h(103): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\dmitriy n\source\repos\project5\project5\myform.h(104): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\dmitriy n\source\repos\project5\project5\myform.h(106): warning C4101: y0: неиспользованная локальная переменная
+c:\users\dmitriy n\source\repos\project5\project5\myform.h(106): warning C4101: dt: неиспользованная локальная переменная
+c:\users\dmitriy n\source\repos\project5\project5\myform.h(106): warning C4101: x0: неиспользованная локальная переменная
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project5.vcxproj -> C:\Users\Dmitriy N\source\repos\Project5\Debug\Project5.exe
